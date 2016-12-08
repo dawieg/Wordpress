@@ -1,0 +1,8 @@
+C:\Projects\WordpressAuto\WordpressAuto\bin\Debug\WordpressAuto.dll
+C:\Projects\WordpressAuto\WordpressAuto\bin\Debug\WordpressAuto.pdb
+C:\Projects\WordpressAuto\WordpressAuto\bin\Debug\WebDriver.dll
+C:\Projects\WordpressAuto\WordpressAuto\bin\Debug\WebDriver.Support.dll
+C:\Projects\WordpressAuto\WordpressAuto\bin\Debug\WebDriver.xml
+C:\Projects\WordpressAuto\WordpressAuto\bin\Debug\WebDriver.Support.xml
+C:\Projects\WordpressAuto\WordpressAuto\obj\Debug\WordpressAuto.dll
+C:\Projects\WordpressAuto\WordpressAuto\obj\Debug\WordpressAuto.pdb

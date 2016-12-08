@@ -1,0 +1,9 @@
+C:\Projects\WordpressAuto\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Projects\WordpressAuto\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Projects\WordpressAuto\UnitTestProject1\bin\Debug\WordpressAuto.dll
+C:\Projects\WordpressAuto\UnitTestProject1\bin\Debug\WebDriver.dll
+C:\Projects\WordpressAuto\UnitTestProject1\bin\Debug\WordpressAuto.pdb
+C:\Projects\WordpressAuto\UnitTestProject1\bin\Debug\WebDriver.xml
+C:\Projects\WordpressAuto\UnitTestProject1\obj\Debug\WordpressTests.csprojResolveAssemblyReference.cache
+C:\Projects\WordpressAuto\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Projects\WordpressAuto\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
